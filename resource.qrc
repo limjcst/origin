@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/picture">
+        <file alias="back">back.jpg</file>
+        <file alias="icon">icon.ico</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file alias="win">sound/applause.wav</file>
+        <file alias="lose">sound/wind.wav</file>
+    </qresource>
+</RCC>
